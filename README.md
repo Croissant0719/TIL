@@ -4,7 +4,7 @@
 
 ### Ruby on Rails
 
-- [exceptions](https://github.com/Croissant0719/TIL/Ruby-on-Rails/exception.md)
+- [exceptions](https://github.com/Croissant0719/TIL/blob/master/Ruby-on-Rails/exception.md)
 
 ### TypeScript
 
