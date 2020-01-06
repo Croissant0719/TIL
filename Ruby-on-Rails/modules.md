@@ -5,7 +5,8 @@
 [SecureRandomモジュール 概要](https://docs.ruby-lang.org/ja/latest/class/SecureRandom.html
 )
 
-```irb
+```rb
+$ irb
 >> require 'securerandom'
 => true
 >> SecureRandom.hex(8)
