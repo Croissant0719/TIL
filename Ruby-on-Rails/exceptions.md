@@ -1,6 +1,6 @@
 # 例外処理について
 
-参考:[【Ruby】例外処理](https://qiita.com/tsubasakat/items/6825bcefcad26da3471b)
+参考: [【Ruby】例外処理](https://qiita.com/tsubasakat/items/6825bcefcad26da3471b)
 
 ## begin ~ rescue ~ end
 

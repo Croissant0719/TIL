@@ -1,5 +1,7 @@
 # mysqldump
 
+参考: [mysqldumpまとめ](https://qiita.com/PlanetMeron/items/3a41e14607a65bc9b60c)
+
 ## basic options
 
 |オプション|意味|説明|
