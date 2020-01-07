@@ -12,3 +12,7 @@
 ### TypeScript
 
 ### React
+
+### MySQL
+
+- [mysqldump](https://github.com/Croissant0719/TIL/blob/master/MySQL/mysqldump.md)
