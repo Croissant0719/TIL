@@ -1,5 +1,12 @@
 # Active Record
 
+## クエリの発行
+
+Arel を用いると、 SQL 文を Active Record のメソッドのように生成することができる。
+また、簡単な `where` 句などを発行する場合などは関係ないが、テーブルを `join` したり複雑な DB 操作をする場合は、モデルのスコープに定義すると良い。
+
+[Railsの複雑な検索はスコープを使おう](https://qiita.com/okamos/items/724a4a162dfa9e27754a)
+
 ## Boolean 値の保存について
 
 例えば `JavaScript` で `POST` されたパラメータで、 `hasBooks` という `Boolean` 型の値があった場合、例え `JavaScript` で `Boolean` 型であっても、 `Rails Controller` に投げらると `String` 型になることがある。
